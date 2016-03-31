@@ -1,2 +1,2 @@
 Hello, world!
-Edited from my computer
+Editied in both places.
